@@ -1,0 +1,21 @@
+Project Title: Personal Mini-Toolkit
+Repository Name: plp-python-week8
+
+Tools Included:
+1. Quick To-Do List Manager: Allows the user to view, add, and remove tasks from a dynamic list.
+   - Concepts used: Loops, lists, conditionals, f-strings, input/output.
+2. Tip & Split Calculator: Calculates the total tip and splits a restaurant bill evenly among a given number of people.
+   - Concepts used: Conditionals, arithmetic operations, f-strings, input/output.
+3. Guess the Number Game: A mini game where the user tries to guess a secret number with feedback on each attempt.
+   - Concepts used: Loops, conditionals, f-strings, input/output.
+
+Exact Menu Text:
+========================================
+       WELCOME TO YOUR MINI-TOOLKIT
+========================================
+Please select a tool from the menu below:
+  1. Quick To-Do List Manager
+  2. Tip & Split Calculator
+  3. Guess the Number Game
+  4. Quit
+----------------------------------------
